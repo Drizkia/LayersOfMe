@@ -1,0 +1,11 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "Tailwind CDN + IntelliSense setup",
+  "tailwindCSS": {
+    "config": "tailwind.config.js",
+    "includeLanguages": {
+      "html": "html"
+    }
+  }
+}
